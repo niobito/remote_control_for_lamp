@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lamp remote control</string>
+    <string name="Plus_button">+</string>
+    <string name="Minus_button">-</string>
+    <string name="ON">ON</string>
+    <string name="OFF">OFF</string>
+    <string name="minus_cyclic_increase">-cyclic_increase</string>
+    <string name="plus_cyclic_increase">+cyclic_increase</string>
+    <string name="line_button">lines</string>
+</resources>
